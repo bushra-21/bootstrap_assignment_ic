@@ -1,5 +1,7 @@
 # bootstrap_assignment_ic
 
+Live link: https://bushra-21.github.io/bootstrap_assignment_ic/
+
 2nd Assignment about Travel agency with bootstrap5.
 
 The website has home section with carousel <br>
