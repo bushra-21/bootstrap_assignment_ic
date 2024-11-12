@@ -1,0 +1,25 @@
+.c-item {
+  height: 100vh;
+}
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+.for-down {
+  padding-top: 7rem;
+}
+
+.overview {
+  height: 150px;
+  background: #d3dae1;
+}
+.card {
+  transition: 0.3s ease-in-out;
+}
+.card:hover {
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+}
+footer {
+  margin-top: 0.5px;
+}
